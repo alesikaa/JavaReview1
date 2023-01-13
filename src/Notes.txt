@@ -23,3 +23,18 @@ Logical Operators
 
       IF ( COLD || RAIN ){
       }
+
+
+
+
+      -----------------------------
+
+      Loop - repeat block of code based on the condition
+      4 Loops in Java:
+     Use While you don't know how many times you will repeat the code
+      while
+      do while
+
+     Use FOR you don't know in advanced how many times you will repeat the code
+       for
+      for each/advanced for loop/enhanced for loop
