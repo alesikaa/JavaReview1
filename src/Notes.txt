@@ -1,0 +1,25 @@
+Logical Operators
+
+ When we need to test for two or more  conditions we use LOGICAL OPERATORS
+      and or not
+      &&  || !
+
+  boolean cold=true;
+  boolean rain=true;
+
+   AND -> &&
+  true && true= true
+  true && false= false
+  false && true=false
+  false && false=false
+  if (cold && rain)  {--> FALSE
+  SOUT ("I WILL STAY AT HOME")
+  }
+    OR-> ||
+      true || true= true
+      true || false= TRUE
+      false || true=TRUE
+      false || false=false
+
+      IF ( COLD || RAIN ){
+      }
