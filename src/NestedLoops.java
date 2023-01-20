@@ -4,11 +4,11 @@ public class NestedLoops {
 
         // nested loop-loop inside another loop
 
-        for( int i=1; i<=3;i++){// outer loop
+        for( int i=0; i<=3;i++){// outer loop
             System.out.println(i);
 
 
-            for( int j=1;j<=4;j++){// inner loop
+            for( int j=1;j>=3;j++){// inner loop
                 System.out.println(j);
             }
         }
